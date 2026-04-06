@@ -1,0 +1,1 @@
+This Project aims to develop a simple Banking Management System using C programming. The system allow users to create account, Deposit and Withdraw funds and check their balance. complete details available in attachment.
