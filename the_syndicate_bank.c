@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Structure
+// Structure declaration
 struct account
 {
     char account_number[12];
