@@ -2,7 +2,7 @@
 #include <string.h>
 
 // Taking Variable
-char account_number[12];
+char account_number[11];
 char account_holder_name[50];
 float account_balance;
 int account_created = 0;
